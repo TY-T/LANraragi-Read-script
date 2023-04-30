@@ -5,7 +5,7 @@
 // @icon         https://raw.githubusercontent.com/Difegue/LANraragi/dev/public/favicon.ico
 // @description  Removes <div> elements with a crown emoji 👑
 // @author       TsukinoYuuki
-// @match        *://*10.24.19.14:3000/*
+// @match        *10.24.19.14:3000/*
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
